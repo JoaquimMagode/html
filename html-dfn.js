@@ -1,6 +1,6 @@
 // A fork of https://resources.whatwg.org/dfn.js which works for HTML's multipage version by using xrefs.json.
 'use strict';
-
+//Good
 (function() {
 
 var isMultipage = document.documentElement.classList.contains('split');
